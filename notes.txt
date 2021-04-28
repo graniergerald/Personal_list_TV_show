@@ -1,0 +1,19 @@
+NOTE Parse. https://parceljs.org/getting_started.html
+
+npm init -y (initialise npm)
+npm -i -g parcel-bundler (installe parcel)
+
+parcel index.html (lancer localhost et compiler ce qu'on fait)
+parcelbuild index.html (build avant site en ligne) (bug complet pour l'instant...)
+
+
+Regarder dans le package.json les script pour les raccourcis de commande :)
+
+Plus qu'a : "npm ['nom de commande']"
+
+
+-----------------------------------------------
+
+Problem build ??? ou dist c'est la même ?? 
+
+Pb push .....

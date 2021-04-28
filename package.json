@@ -1,0 +1,19 @@
+{
+  "name": "personal_tv_show",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html" ,
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^5.0.2",
+    "postcss": "^8.2.13",
+    "sass": "^1.32.11"
+  }
+}

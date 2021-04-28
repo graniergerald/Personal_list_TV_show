@@ -1,0 +1,1 @@
+{"version":3,"sources":["style\\styles.scss","style\\variables.scss"],"names":[],"mappings":"AAAA;EACE,OCDc;;ADGd;EACE,OCHc","file":"style.d9cbfdb6.css","sourceRoot":"..","sourcesContent":[".test {\r\n  color: $color-primary;\r\n\r\n  p {\r\n    color: $color-secondary;\r\n  }\r\n}\r\n","$color-primary: rgb(110, 29, 29);\r\n$color-secondary: rgb(134, 134, 250);\r\n"]}
