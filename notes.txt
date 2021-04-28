@@ -16,4 +16,11 @@ Plus qu'a : "npm ['nom de commande']"
 
 Problem build ??? ou dist c'est la même ?? 
 
-Pb push .....
+------------------------------
+
+
+Logique pour JS :
+
+Pour le travail avec l'API c'est toujours pareil : on fait un fetch, quand il fonctionne on paramètre un affichage ( d'abord Log), quand on y arrive alors on fait les eventlistener qui déclenchent la logique (click, input, submit...).
+
+-------------------------------------

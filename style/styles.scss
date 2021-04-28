@@ -1,7 +1,31 @@
-.test {
-  color: $color-primary;
+* {
+  font-family: "Roboto", sans-serif;
+}
 
+body {
+  padding-left: 140px;
+  padding-right: 140px;
+  background-color: $color-bckg-body;
+
+  div {
+    background-color: $color-light;
+  }
+}
+
+header {
+  color: $color-primary;
+  h1 {
+    display: inline;
+    font-size: 50px;
+    border-bottom: $color-secondary 10px solid;
+    border-left: $color-secondary 10px solid;
+    padding: 10px;
+  }
+}
+
+.FirstSection {
   p {
-    color: $color-secondary;
+    color: $color-dark;
+    font-size: 40px;
   }
 }

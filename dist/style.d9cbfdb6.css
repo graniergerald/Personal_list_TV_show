@@ -1,8 +1,30 @@
-.test {
-  color: #6e1d1d;
+* {
+  font-family: "Roboto", sans-serif;
 }
-.test p {
-  color: #8686fa;
+
+body {
+  padding-left: 140px;
+  padding-right: 140px;
+  background-color: #e7ebe0ff;
+}
+body div {
+  background-color: white;
+}
+
+header {
+  color: #00203fff;
+}
+header h1 {
+  display: inline;
+  font-size: 50px;
+  border-bottom: #adefd1ff 10px solid;
+  border-left: #adefd1ff 10px solid;
+  padding: 10px;
+}
+
+.FirstSection p {
+  color: black;
+  font-size: 40px;
 }
 
 /*# sourceMappingURL=/style.d9cbfdb6.css.map */
