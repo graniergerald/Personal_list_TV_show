@@ -4,7 +4,7 @@ npm init -y (initialise npm)
 npm -i -g parcel-bundler (installe parcel)
 
 parcel index.html (lancer localhost et compiler ce qu'on fait)
-parcelbuild index.html (build avant site en ligne) (bug complet pour l'instant...)
+parcel build index.html (build avant site en ligne) (bug complet pour l'instant...)
 
 
 Regarder dans le package.json les script pour les raccourcis de commande :)
